@@ -9,4 +9,5 @@ This bot uses basic strategies from the card game bluff. (It beats my friends 4 
 
 ## Demonstration:
 Example of a typical round (input and output):
+
 ![](https://i.ibb.co/rmGhNhr/unknown7.png)
